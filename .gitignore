@@ -1,0 +1,6 @@
+# python bytecode
+__pycache__/
+.pytest_cache/
+
+# python notebook save points, but we have actual version control
+.ipynb_checkpoints
